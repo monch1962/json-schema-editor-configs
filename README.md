@@ -1,4 +1,4 @@
-# json-schema-editors
+# json-schema-editor-configs
 Useful JSON schema configs for https://json-editor.github.io/
 
 https://json-editor.github.io/ is a very handy tool for working with JSON schemas. You can give it a JSON schema to work with, and it will then give you a nice friendly web UI to edit JSON docs that conform to that schema.
